@@ -1,24 +1,14 @@
-# README
+# Rails API Only App!
+### Photo Collection API
+### RoR BootCamp - Week 10
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Tools & Versions
+- Rails 7.0.1
 
-Things you may want to cover:
+- Ruby 3.1.0
 
-* Ruby version
+- SQLite 3.35.0
 
-* System dependencies
+## Video
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://user-images.githubusercontent.com/35638595/158048984-baa17262-e446-469c-a065-e665dcdac1ac.mov
