@@ -10,7 +10,10 @@ class PhotosController < ApplicationController
 
   # GET /photos/1
   def show
-    render json: @photo
+    photo = { id: @photo.id,
+      venue: @photo.venue,
+      author: @photo.user }
+    render json: photo
   end
 
   # POST /photos
